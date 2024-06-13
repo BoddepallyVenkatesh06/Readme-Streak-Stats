@@ -15,7 +15,7 @@
 2. Replace the value after `?user=` with your GitHub username
 
 ```md
-[![GitHub Streak](https://readme-streak-stats-venky-kumar.netlify.app/?user=Nirzak)]
+[![GitHub Streak](https://readme-streak-stats-venky-kumar.netlify.app/?user=)]
 ```
 
 3. Star the repo 😄
